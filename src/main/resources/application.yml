@@ -1,0 +1,8 @@
+server:
+  port: 8081
+# Tomcat
+demo:
+  url: http://content.mtime.com/
+
+logging:
+  config: classpath:logback-prod.xml
